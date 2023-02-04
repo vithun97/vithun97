@@ -5,6 +5,19 @@ I am a data engineer with over 2 years of professional experience and a **Google
 I have a solid understanding of **ELT and ETL principles**, and am proficient in **SQL, AWS Redshift, and Snowflak**e with a strong background in data warehousing concepts. I also possess advanced skills in Excel and working knowledge in JIRA and Linux.
 
 My technical skillset includes **Python**, C, Scala, **GCP, AWS, BigQuery, AWS RedShift, SQL Server, MySQL, PostgreSQL, MongoDB, Informatica, GCP DataFlow, AirFlow, SnowFlake, Jenkins, Kafka, Docker, Google Data Studio, Power BI, Spotfire, PySpark, Hadoop, PyCharm, Eclipse, Jupyter Notebook, Google Colab, PyUnit, HTML, CSS, JavaScript, Angular, Flask, Git, BitBucket**, and **Confluence Pages**.
+## Tech Stack:
+
+* **Programming Languages:** Python, C, Java
+• **Cloud:** GCP, AWS
+• **Databases:** BigQuery, AWS RedShift, SQL Server, MySQL, PostgreSQL, MongoDB
+• **Data Integration / ETL:** Informatica, GCP DataFlow
+• **Data Engineering:** AirFlow (Orchestration), SnowFlake (Compute), Jenkins (CI/CD), Kafka (Streaming), Docker (Containers)
+• **BI Visualization:** Google Data Studio, Power BI, Spotfire
+• **Big Data:** PySpark, Hadoop (HDFS, HIVE)
+• **IDE Tools:** PyCharm, Eclipse, Jupyter Notebook, Google Colab, PyUnit (Testing Framework)
+• **Web Technologies:** HTML, CSS, JavaScript, Angular, Flask
+• **Version Control:** Git, BitBucket, Confluence Pages
+• **Data & Statistics:** A/B testing, ETL, Data (Cleaning, Wrangling, Modeling, Visualization)
 
 I have a strong foundation in data and statistics, including A/B testing, ETL, data cleaning, wrangling, modeling, and visualization. I am always looking to expand my knowledge and skills in the data engineering field.
 
