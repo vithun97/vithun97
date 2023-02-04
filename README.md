@@ -21,3 +21,10 @@ You can view the regular updates about my portfolio : [Portfolio](https://vithun
 * [Taming Big Data with Apache Spark and Python](https://concordia.udemy.com/certificate/UC-bb790a4c-d31e-4467-a3d9-4ab22acb3587/)
 * [Apache Kafka Series](https://concordia.udemy.com/certificate/UC-a120aeb7-9c37-40c0-b97a-dcab0d826bc6/)
 * [SnowFlake Data Warehousing and Data Lake Badges](https://www.linkedin.com/in/vithun-krishna-s/details/certifications/) - 2 x SnowFlake Certified
+  
+## Projects:
+
+* [Data Driven Insights on YouTube Trends](https://github.com/vithun97/Data-Driven-Insights-on-YouTube-Trends-Data-Engineering-Project)  
+* [Twitter Data Pipeline using Airflow: Collection and Processing](https://github.com/vithun97/Twitter-Pipeline-using-Airflow)  
+* [Stock Market Real Time Data Processing Engine using Kafka](https://github.com/vithun97/Stock-Market-Real-Time-Data-Processing-Engine-using-Kafka---Data-Engineering-Project)  
+* [Amazon Data Scraping using Python](https://github.com/vithun97/Amazon-web-scraping)  
