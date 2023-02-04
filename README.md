@@ -12,11 +12,11 @@ You can reach me through : https://www.linkedin.com/in/vithun-krishna-s/
 
 ## Licenses and Certifications: 
 
-* Data Engineering, Big Data, and Machine Learning on GCP(https://www.coursera.org/account/accomplishments/specialization/certificate/HGRW5N4YSRFY) 
-* Linux and Bash for Data Engineering
-* SnowFlake Complete Masterclass
-* Complete Hands-on Apache Airflow
-* DataWarehouse Fundamentals
-* Taming Big Data with Apache Spark and Python
-* Apache Kafka Series
-* SnowFlake Data Warehousing and Data Lakes
+* [Data Engineering, Big Data, and Machine Learning on GCP](https://www.coursera.org/account/accomplishments/specialization/certificate/HGRW5N4YSRFY) 
+* [Linux and Bash for Data Engineering](https://www.coursera.org/account/accomplishments/certificate/RFLZG7L4KZTH) 
+* [SnowFlake Complete Masterclass]
+* [Complete Hands-on Apache Airflow](https://concordia.udemy.com/certificate/UC-9709a37b-1a51-4d88-86f1-5433f865fe2c/)
+* [DataWarehouse Fundamentals](https://concordia.udemy.com/certificate/UC-616c0076-546f-47ef-ae66-44009ee28f9b/)
+* [Taming Big Data with Apache Spark and Python](https://concordia.udemy.com/certificate/UC-bb790a4c-d31e-4467-a3d9-4ab22acb3587/)
+* [Apache Kafka Series](https://concordia.udemy.com/certificate/UC-a120aeb7-9c37-40c0-b97a-dcab0d826bc6/)
+* [SnowFlake Data Warehousing and Data Lake Badges] - 2 x SnowFlake Certified
