@@ -7,16 +7,16 @@ I have a solid understanding of **ELT and ETL principles**, and am proficient in
 ## Tech Stack:
 
 * **Programming Languages:** Python, C, Java  
-• **Cloud:** GCP, AWS  
-• **Databases:** BigQuery, AWS RedShift, SQL Server, MySQL, PostgreSQL, MongoDB  
-• **Data Integration / ETL:** Informatica, GCP DataFlow  
-• **Data Engineering:** AirFlow (Orchestration), SnowFlake (Compute), Jenkins (CI/CD), Kafka (Streaming), Docker (Containers)  
-• **BI Visualization:** Google Data Studio, Power BI, Spotfire  
-• **Big Data:** PySpark, Hadoop (HDFS, HIVE)  
-• **IDE Tools:** PyCharm, Eclipse, Jupyter Notebook, Google Colab, PyUnit (Testing Framework)  
-• **Web Technologies:** HTML, CSS, JavaScript, Angular, Flask  
-• **Version Control:** Git, BitBucket, Confluence Pages  
-• **Data & Statistics:** A/B testing, ETL, Data (Cleaning, Wrangling, Modeling, Visualization)  
+* **Cloud:** GCP, AWS  
+* **Databases:** BigQuery, AWS RedShift, SQL Server, MySQL, PostgreSQL, MongoDB  
+* **Data Integration / ETL:** Informatica, GCP DataFlow  
+* **Data Engineering:** AirFlow (Orchestration), SnowFlake (Compute), Jenkins (CI/CD), Kafka (Streaming), Docker (Containers)  
+* **BI Visualization:** Google Data Studio, Power BI, Spotfire  
+* **Big Data:** PySpark, Hadoop (HDFS, HIVE)  
+* **IDE Tools:** PyCharm, Eclipse, Jupyter Notebook, Google Colab, PyUnit (Testing Framework)  
+* **Web Technologies:** HTML, CSS, JavaScript, Angular, Flask  
+* **Version Control:** Git, BitBucket, Confluence Pages  
+* **Data & Statistics:** A/B testing, ETL, Data (Cleaning, Wrangling, Modeling, Visualization)  
   
 As a data engineer, I am always looking for ways to improve my craft and stay current with the latest trends and technologies. I welcome valuable suggestions and recommendations from others in the field, as well as from experts in related areas. I believe that by actively seeking out input and advice, I can continue to grow as a professional and deliver increasingly effective data engineering solutions. Whether it's through in-person discussions, online forums, or collaboration with others, I am always eager to learn and incorporate new ideas and best practices into my work.  
 
