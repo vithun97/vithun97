@@ -9,3 +9,14 @@ My technical skillset includes **Python**, C, Scala, **GCP, AWS, BigQuery, AWS R
 I have a strong foundation in data and statistics, including A/B testing, ETL, data cleaning, wrangling, modeling, and visualization. I am always looking to expand my knowledge and skills in the data engineering field.
 
 You can reach me through : https://www.linkedin.com/in/vithun-krishna-s/ 
+
+## Licenses and Certifications: 
+
+* Data Engineering, Big Data, and Machine Learning on GCP
+* Linux and Bash for Data Engineering
+* SnowFlake Complete Masterclass
+* Complete Hands-on Apache Airflow
+* DataWarehouse Fundamentals
+* Taming Big Data with Apache Spark and Python
+* Apache Kafka Series
+* SnowFlake Data Warehousing and Data Lakes
