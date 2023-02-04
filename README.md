@@ -9,7 +9,7 @@ My technical skillset includes **Python**, C, Scala, **GCP, AWS, BigQuery, AWS R
 I have a strong foundation in data and statistics, including A/B testing, ETL, data cleaning, wrangling, modeling, and visualization. I am always looking to expand my knowledge and skills in the data engineering field.
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/vithun-krishna-s/)  
-Stay Up-to-Date on my Portfolio Progress : [Portfolio](https://vithunkrishnas.carrd.co/)
+Stay Up-to-Date on my [Portfolio](https://vithunkrishnas.carrd.co/) Progress
 
 ## Licenses and Certifications: 
 
