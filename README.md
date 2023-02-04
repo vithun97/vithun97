@@ -4,7 +4,7 @@ I am a data engineer with over 2 years of professional experience and a **Google
 
 I have a solid understanding of **ELT and ETL principles**, and am proficient in **SQL, AWS Redshift, and Snowflake** with a strong background in data warehousing concepts. I also possess advanced skills in Excel and working knowledge in JIRA and Linux.
 
-## Tech Stack:
+## Tech Stack @laptop :
 
 * **Programming Languages:** Python, C, Java  
 * **Cloud:** GCP, AWS  
