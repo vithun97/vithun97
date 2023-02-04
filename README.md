@@ -12,7 +12,7 @@ You can reach me through : https://www.linkedin.com/in/vithun-krishna-s/
 
 ## Licenses and Certifications: 
 
-* Data Engineering, Big Data, and Machine Learning on GCP
+* Data Engineering, Big Data, and Machine Learning on GCP(https://www.coursera.org/account/accomplishments/specialization/certificate/HGRW5N4YSRFY) 
 * Linux and Bash for Data Engineering
 * SnowFlake Complete Masterclass
 * Complete Hands-on Apache Airflow
