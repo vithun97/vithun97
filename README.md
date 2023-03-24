@@ -6,15 +6,17 @@ I have a solid understanding of **ELT and ETL principles**, and am proficient in
 
 ## Tech Stack :
 
-* **Programming Languages:** Python, C, Java  
-* **Cloud:** GCP, AWS  
-* **Databases:** BigQuery, AWS RedShift, SQL Server, MySQL, PostgreSQL, MongoDB  
-* **Data Integration / ETL:** Informatica, GCP DataFlow  
+* **Programming Languages:** Python, Java  
+* **Cloud:** AWS, Azure, GCP, Databricks 
+* **Databases:** AWS RedShift, MySQL, PostgreSQL, MongoDB  
+* **Data Integration / ETL:** Informatica, AWS Glue
+* **Azure:** Data Factory, Azure DB for MySQL, Blob Storages, Synapse Analytics  
+* **AWS:** Redshift, EC2, Quicksight, Kinesis, Sagemaker, Lambda Functions, S3, SNS
 * **Data Engineering:** AirFlow (Orchestration), SnowFlake (Compute), Jenkins (CI/CD), Kafka (Streaming), Docker (Containers)  
-* **BI Visualization:** Google Data Studio, Power BI, Spotfire  
+* **BI Visualization:** Tableau, Power BI, Spotfire  
 * **Big Data:** PySpark, Hadoop (HDFS, HIVE)  
 * **IDE Tools:** PyCharm, Eclipse, Jupyter Notebook, Google Colab, PyUnit (Testing Framework)  
-* **Web Technologies:** HTML, CSS, JavaScript, Angular, Flask  
+* **Web Technologies:** HTML, CSS, JavaScript, Angular, Flask, SpringBoot, Node.js  
 * **Version Control:** Git, BitBucket, Confluence Pages  
 * **Data & Statistics:** A/B testing, ETL, Data (Cleaning, Wrangling, Modeling, Visualization)  
   
