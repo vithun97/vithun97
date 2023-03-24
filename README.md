@@ -1,6 +1,6 @@
 # About Me
 
-I am a data engineer with over 2 years of professional experience and a **Google Cloud Professional Data Engineer** certification. I specialize in developing and building scalable data pipelines using Python, **Hadoop Ecosystem**, Exploratory Data Analysis, Structured Machine Learning algorithms, and **Power BI Visualization**. My expertise includes data collection, cleaning, integration, processing, and visualization using python libraries such as **PySpark, Pandas, NumPy, and Shell**.
+I am an experienced Business Intelligence Engineer with over 2.5 years of expertise in developing and implementing data-driven solutions to drive business growth and optimize operations. I specialize in developing and building scalable data pipelines using Python, **Hadoop Ecosystem**, Exploratory Data Analysis, Structured Machine Learning algorithms, and **Power BI Visualization**. My expertise includes data collection, cleaning, integration, processing, and visualization using python libraries such as **PySpark, Pandas, NumPy, and Shell**.
 
 I have a solid understanding of **ELT and ETL principles**, and am proficient in **SQL, AWS Redshift, and Snowflake** with a strong background in data warehousing concepts. I also possess advanced skills in Excel and working knowledge in JIRA and Linux.
 
