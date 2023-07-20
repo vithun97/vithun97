@@ -1,24 +1,22 @@
 # About Me
 
-I am an experienced **Business Intelligence Engineer** with over **2.5+ years of expertise** in developing and implementing data-driven solutions to drive business growth and optimize operations. I specialize in developing and building scalable data pipelines using Python, **Hadoop Ecosystem**, Exploratory Data Analysis, Structured Machine Learning algorithms, and **Power BI Visualization**. My expertise includes data collection, cleaning, integration, processing, and visualization using python libraries such as **PySpark, Pandas, NumPy, and Shell**.
+I am an experienced **Data Engineer** with over **2.5+ years of expertise** in developing and implementing data-driven solutions to drive business growth and optimize operations. I specialize in developing and building scalable data pipelines using Python, **AWS**, and **Power BI Visualization**. My expertise includes data collection, cleaning, integration, processing, and visualization using python libraries such as **PySpark, Pandas**.
 
 I have a solid understanding of **ELT and ETL principles**, and am proficient in **SQL, AWS Redshift, and Snowflake** with a strong background in data warehousing concepts. I also possess advanced skills in Excel and working knowledge in JIRA and Linux.
 
 ## Tech Stack :
 
-* **Programming Languages:** Python, Java  
-* **Cloud:** AWS, Azure, Databricks 
+* **Programming Languages:** Python  
+* **Cloud:** AWS, Azure, SnowFlake 
 * **Databases:** AWS RedShift, MySQL, PostgreSQL, MongoDB  
 * **Data Integration / ETL:** Informatica, AWS Glue
 * **Azure:** Data Factory, Azure DB for MySQL, Blob Storages, Synapse Analytics  
 * **AWS:** Redshift, EC2, Quicksight, Kinesis, Sagemaker, Lambda Functions, S3, SNS
-* **Data Engineering:** AirFlow (Orchestration), SnowFlake (Compute), Jenkins (CI/CD), Kafka (Streaming), Docker (Containers)  
-* **BI Visualization:** Tableau, Power BI, Spotfire  
-* **Big Data:** PySpark, Hadoop (HDFS, HIVE)  
+* **Data Engineering:** SnowFlake (Compute), Jenkins (CI/CD)  
+* **BI Visualization:** Tableau, Power BI 
 * **IDE Tools:** PyCharm, Eclipse, Jupyter Notebook, Google Colab, PyUnit (Testing Framework)  
 * **Web Technologies:** HTML, CSS, JavaScript, Angular, Flask, SpringBoot, Node.js  
-* **Version Control:** Git, BitBucket, Confluence Pages  
-* **Data & Statistics:** A/B testing, ETL, Data (Cleaning, Wrangling, Modeling, Visualization)  
+* **Version Control:** Git, BitBucket
   
 As a data engineer, I am always looking for ways to improve my craft and stay current with the latest trends and technologies. I welcome valuable suggestions and recommendations from others in the field, as well as from experts in related areas. I believe that by actively seeking out input and advice, I can continue to grow as a professional and deliver increasingly effective data engineering solutions. Whether it's through in-person discussions, online forums, or collaboration with others, I am always eager to learn and incorporate new ideas and best practices into my work.  
 
